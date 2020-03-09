@@ -69,11 +69,11 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Matcheck, Nick
 
-- [ ] Mori, Fabio
+- [X] Mori, Fabio (@fabiopixies)
 
 - [x] Overcash, Ryan (@ryovercash) :boom:
 
-- [ ] Price, Andrew
+- [x] Price, Andrew "The Greatest"
 
 - [ ] Purak, Amina
 
